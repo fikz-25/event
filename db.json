@@ -3,8 +3,34 @@
       {
          "id":1,
          "name":"Festival Kuliner",
-         "date":"2021-05-23",
-         "image":"https://s3.ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2017/12/08084500/13.jpg"
+         "date":"2021-06-03",
+         "image":"https://s3.ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2017/12/08084500/13.jpg",
+         "latitude": -7.782094,
+         "longitude": 110.367300
+      },
+      {
+         "id":2,
+         "name":"JOGJA INAVEST 2021",
+         "date":"2021-06-21",
+         "image":"https://jadwalevent.web.id/wp-content/uploads/2021/04/JGJ_Inavest.jpg",
+         "latitude": -7.783251,
+         "longitude": 110.368867
+      },
+      {
+         "id":3,
+         "name":"JOGJA EXPLORE WISATA INDONESIA 2021",
+         "date":"2021-06-25",
+         "image":"https://jadwalevent.web.id/wp-content/uploads/2021/04/JGJ_Explore-Wisata-Indonesia.jpg",
+         "latitude": -7.785749,
+         "longitude": 110.366936
+      },
+      {
+         "id":4,
+         "name":"JOGJA SMEITT EXPO 2021 (Pameran Perdagangan, Industri, Pariwisata, UKM, Perikanan dan Pertanian)",
+         "date":"2021-09-09",
+         "image":"https://jadwalevent.web.id/wp-content/uploads/2021/04/JOGJA-SEPTEMBER.jpg",
+         "latitude": -7.782557,
+         "longitude": 110.364771
       }
    ]
 }
