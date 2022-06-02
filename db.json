@@ -1,36 +1,35 @@
 {
-   "event":[
-      {
-         "id":1,
-         "name":"Festival Kuliner",
-         "date":"2021-06-03",
-         "image":"https://s3.ap-southeast-1.amazonaws.com/magazine.job-like.com/magazine/wp-content/uploads/2017/12/08084500/13.jpg",
-         "latitude": -7.782094,
-         "longitude": 110.367300
+   "event":         "current_type":"ALL"
       },
       {
-         "id":2,
-         "name":"JOGJA INAVEST 2021",
-         "date":"2021-06-21",
-         "image":"https://jadwalevent.web.id/wp-content/uploads/2021/04/JGJ_Inavest.jpg",
-         "latitude": -7.783251,
-         "longitude": 110.368867
+         "id":98,
+         "product_name":"Mounting Solar PV / Solar Module / Panel Surya - Mid Clamp - 30mm",
+         "type":"Mounting",
+         "merk":"",
+         "price":"Rp. 11.000",
+         "product_url":"https://www.tokopedia.com/suryaglora-e/mounting-solar-pv-solar-module-panel-surya-mid-clamp-30mm?extParam=ivf%3Dfalse%26src%3Dsearch",
+         "image":"",
+         "current_type":"ALL"
       },
       {
-         "id":3,
-         "name":"JOGJA EXPLORE WISATA INDONESIA 2021",
-         "date":"2021-06-25",
-         "image":"https://jadwalevent.web.id/wp-content/uploads/2021/04/JGJ_Explore-Wisata-Indonesia.jpg",
-         "latitude": -7.785749,
-         "longitude": 110.366936
+         "id":99,
+         "product_name":"Mounting Panel Surya/Solar Panel - End Clamp 35 mm & 40 mm",
+         "type":"Mounting",
+         "merk":"",
+         "price":"Rp. 14.000",
+         "product_url":"https://www.tokopedia.com/mutualismpowereng/mounting-panel-surya-solar-panel-end-clamp-35-mm-40-mm?extParam=ivf%3Dfalse%26src%3Dsearch",
+         "image":"",
+         "current_type":"ALL"
       },
       {
-         "id":4,
-         "name":"JOGJA SMEITT EXPO 2021 (Pameran Perdagangan, Industri, Pariwisata, UKM, Perikanan dan Pertanian)",
-         "date":"2021-09-09",
-         "image":"https://jadwalevent.web.id/wp-content/uploads/2021/04/JOGJA-SEPTEMBER.jpg",
-         "latitude": -7.782557,
-         "longitude": 110.364771
+         "id":100,
+         "product_name":"Mounting Solar PV / Solar Module / Panel Surya - Adj. Tile Hook - Horizontal, Baut Baja",
+         "type":"Mounting",
+         "merk":"",
+         "price":"Rp. 100.000",
+         "product_url":"https://www.tokopedia.com/suryaglora-e/mounting-solar-pv-solar-module-panel-surya-adj-tile-hook-horizontal-baut-baja?extParam=ivf%3Dfalse%26src%3Dsearch",
+         "image":"",
+         "current_type":"ALL"
       }
    ]
 }
